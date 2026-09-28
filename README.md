@@ -21,8 +21,8 @@
 ## Código
 
 ```javascript
-const saludo = () => console.log("Hola Eleazar"); ```
-
+const saludo = () => console.log("Hola Eleazar"); 
+```
 ## Tabla
 
 | App | Plataforma | Precio |
@@ -34,5 +34,5 @@ const saludo = () => console.log("Hola Eleazar"); ```
 
 Una imagen vale más que mil palabras
 
-![Imagen de ejemplo](./envejecer.jpg)
+![Imagen de ejemplo](envejecer.jpg)
 

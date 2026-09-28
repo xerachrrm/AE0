@@ -34,6 +34,5 @@ const saludo = () => console.log("Hola Eleazar"); ```
 
 Una imagen vale más que mil palabras
 
-![Imagen de ejemplo](Felicidad.jpg)
+![Imagen de ejemplo](./envejecer.jpg)
 
-No consigo que se muestre la imagen. He probdo (./Felicidad.jpg) y Ahora (Felicidad.jpg)
